@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Old Bird</title>
+  
+  <subtitle>时有丹雀，衔九穗禾，其坠地者，帝乃拾之，以植于田，食者老而不死</subtitle>
+  <link href="http://www.oldbird.tech/atom.xml" rel="self"/>
+  
+  <link href="http://www.oldbird.tech/"/>
+  <updated>2020-11-05T06:24:52.742Z</updated>
+  <id>http://www.oldbird.tech/</id>
+  
+  <author>
+    <name>huanghuizz</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://www.oldbird.tech/2020/11/05/hello-world/"/>
+    <id>http://www.oldbird.tech/2020/11/05/hello-world/</id>
+    <published>2020-11-05T06:24:52.742Z</published>
+    <updated>2020-11-05T06:24:52.742Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
